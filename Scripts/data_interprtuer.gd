@@ -1,12 +1,11 @@
-extends Node2D
-
-func get_data():
-	var file = FileAccess.open("res://Data/Dominon Cards.txt", FileAccess.READ)
+class_name DataInterprtur extends Node2D
+func get_data(file_location: String):
+	var file = FileAccess.open(file_location, FileAccess.READ)
 	var content =file.get_as_text()
 	return content
 
-func make_list():
-	var data = get_data()
+func make_list(file):
+	var data = get_data(file)
 	var data_list = data.split("\n")
 	var complete_data = []
 	for i in data_list:

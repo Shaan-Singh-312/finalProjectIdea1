@@ -1,13 +1,10 @@
-[gd_scene load_steps=3 format=3 uid="uid://s33vvg3e74n1"]
+[gd_scene load_steps=2 format=3 uid="uid://s33vvg3e74n1"]
 
-[ext_resource type="Script" path="res://Scripts/Game.gd" id="1_76w4u"]
-[ext_resource type="PackedScene" uid="uid://dyluvsk81t6ig" path="res://Scenes/data_interprtuer.tscn" id="2_wgxnc"]
+[ext_resource type="Script" uid="uid://b4106rni67fwi" path="res://Scripts/Game.gd" id="1_76w4u"]
 
 [node name="Main" type="Node2D"]
 script = ExtResource("1_76w4u")
 metadata/_edit_horizontal_guides_ = [224.0]
-
-[node name="Data Interprtuer" parent="." instance=ExtResource("2_wgxnc")]
 
 [node name="CenterContainer" type="CenterContainer" parent="."]
 offset_left = 8.0

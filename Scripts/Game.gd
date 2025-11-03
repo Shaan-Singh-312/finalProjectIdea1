@@ -1,6 +1,6 @@
 extends Node2D
 
-@onready var d = preload("res://Scenes/data_interprtuer.tscn")
+@onready var d = DataInterprtur.new()
 var current_card: Array
 
 func make_new_Buttons(names):
@@ -15,8 +15,7 @@ func make_new_Buttons(names):
 			i.get_child(0).text = current_card[0]
 
 func _ready():
-	var Data = d.instantiate()
-	var arr = Data.make_list()
+	var arr = d.make_list(GlobalData.data_set)
 	for i in range(5):
 		var button1 = Button.new()
 		button1.text = arr[i][1]
@@ -30,9 +29,8 @@ func _ready():
 	$CenterContainer/Label.set("theme_override_font_sizes/font_size",48)
 
 func _button_pressed(button):
-	var Data = d.instantiate()
 	if (button.get_meta("Correct") == $CenterContainer/Label.text):
 		$CenterContainer/Label.text = "Correct"
 	else: $CenterContainer/Label.text = "Sorry, incorrect. The correct answer was " + current_card[1]
 	await get_tree().create_timer(1).timeout
-	make_new_Buttons(Data.make_list())
+	make_new_Buttons(d.make_list(GlobalData.data_set))

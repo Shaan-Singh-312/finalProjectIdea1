@@ -14,3 +14,7 @@ config/name="Final Project"
 run/main_scene="res://Scenes/start_scene.tscn"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://Sprites/icon.svg"
+
+[autoload]
+
+GlobalData="*res://Scripts/GlobalData.gd"
