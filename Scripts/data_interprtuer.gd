@@ -1,21 +1,20 @@
 class_name DataInterprtur extends Node2D
-func get_data(file_location: String):
-	var file = FileAccess.open(file_location, FileAccess.READ)
-	var content =file.get_as_text()
-	return content
 
-func make_list(file):
-	var data = get_data(file)
-	var data_list = data.split("\n")
-	var complete_data = []
-	for i in data_list:
-		complete_data.append(i.split("\t"))
-	complete_data.remove_at(0)
+func read_json(file):
+	var json_as_lst = JSON.parse_string(FileAccess.get_file_as_string(file))
+	if json_as_lst:
+		print(typeof(json_as_lst))
+		
 	var new_list = []
 	var top = []
 	while len(new_list) < 5:
-		var x = complete_data.pick_random()
-		if x[1] not in top:
-			new_list.append(x)
-		top.append(x[1])
+		var x = json_as_lst.pick_random()
+		if x["type"] not in top:
+			var types = ""
+			for i in range(len(x["type"])):
+				types+=x["type"][i]+"\t"
+			types = types.substr(0,len(types) -1)
+			new_list.append([x["name"],types])
+		top.append(x["type"])
+	print(new_list)
 	return new_list

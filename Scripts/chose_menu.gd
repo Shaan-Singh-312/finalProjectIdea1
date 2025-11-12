@@ -7,10 +7,10 @@ func _ready() -> void:
 	
 func button_pressed(text: String):
 	if text == "D": 
-		GlobalData.data_set = "res://Data/Dominon Cards.txt"
+		GlobalData.data_set = "res://Data/Dominion.json"
 		print("d")
 	if text == "P": 
-		GlobalData.data_set = "res://Data/pokemon.txt"
+		GlobalData.data_set = "res://Data/pokedex.json"
 	if text == "M": 
-		GlobalData.data_set = "res://Data/Magic Cards.txt"
+		GlobalData.data_set = ""
 	get_tree().change_scene_to_file("res://Scenes/Game.tscn")

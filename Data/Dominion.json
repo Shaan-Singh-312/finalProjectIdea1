@@ -1,0 +1,3356 @@
+[
+  {
+	"name": "Colony/Platinum",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Shelters",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Academy",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Acting Troupe",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Advance",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Advisor",
+	"type": [
+      "Guilds"
+	]
+  },
+  {
+	"name": "Alchemist",
+	"type": [
+      "Alchemy"
+	]
+  },
+  {
+	"name": "Alliance",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Alms",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Altar",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Ambassador",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Amulet",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Animal Fair",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Annex",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Anvil",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Apothecary",
+	"type": [
+      "Alchemy"
+	]
+  },
+  {
+	"name": "Apprentice",
+	"type": [
+      "Alchemy"
+	]
+  },
+  {
+	"name": "Aqueduct",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Architects' Guild",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Archive",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Arena",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Armory",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Artificer",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Artisan",
+	"type": [
+      "Base"
+	]
+  },
+  {
+	"name": "Astrolabe",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Augurs",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Baker",
+	"type": [
+      "Guilds"
+	]
+  },
+  {
+	"name": "Ball",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Band of Nomads",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Bandit",
+	"type": [
+      "Base"
+	]
+  },
+  {
+	"name": "Bandit Camp",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Bandit Fort",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Band of Misfits",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Banish",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Bank",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Banquet",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Barbarian",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Bard",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Bargain",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Barge",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Baron",
+	"type": [
+      "Intrigue"
+	]
+  },
+  {
+	"name": "Barracks",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Basilica",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Baths",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Battlefield",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Bauble",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Bazaar",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Beggar",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Berserker",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Bishop",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Black Cat",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Black Market",
+	"type": [
+      "Promo"
+	]
+  },
+  {
+	"name": "Blessed Village",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Blockade",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Bonfire",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Border Guard",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Border Village",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Borrow",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Bounty Hunter",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Bridge",
+	"type": [
+      "Intrigue"
+	]
+  },
+  {
+	"name": "Bridge Troll",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Broker",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Bureaucrat",
+	"type": [
+      "Base"
+	]
+  },
+  {
+	"name": "Butcher",
+	"type": [
+      "Guilds"
+	]
+  },
+  {
+	"name": "Cache",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Camel Train",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Canal",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Candlestick Maker",
+	"type": [
+      "Guilds"
+	]
+  },
+  {
+	"name": "Capital",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Capital City",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Capitalism",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Captain",
+	"type": [
+      "Promo"
+	]
+  },
+  {
+	"name": "Caravan",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Caravan Guard",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Cardinal",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Cargo Ship",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Carpenter",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Cartographer",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Castles",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Catacombs",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Catapult/Rocks",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Cathedral",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Cauldron",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Cavalry",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Cave Dwellers",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Cellar",
+	"type": [
+      "Base"
+	]
+  },
+  {
+	"name": "Cemetery",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Changeling",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Chapel",
+	"type": [
+      "Base"
+	]
+  },
+  {
+	"name": "Chariot Race",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Charlatan",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Charm",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Church",
+	"type": [
+      "Promo"
+	]
+  },
+  {
+	"name": "Circle of Witches",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Citadel",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "City",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "City-state",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "City Gate",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "City Quarter",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Clashes",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Clerk",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Coastal Haven",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Cobbler",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Coin of the Realm",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Collection",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Colonnade",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Commerce",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Conclave",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Conquest",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Conspirator",
+	"type": [
+      "Intrigue"
+	]
+  },
+  {
+	"name": "Contraband",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Contract",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Corsair",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Council Room",
+	"type": [
+      "Base"
+	]
+  },
+  {
+	"name": "Count",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Counterfeit",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Counting House",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Courier",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Courtier",
+	"type": [
+      "Intrigue"
+	]
+  },
+  {
+	"name": "Courtyard",
+	"type": [
+      "Intrigue"
+	]
+  },
+  {
+	"name": "Coven",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Crafters' Guild",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Crop Rotation",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Crossroads",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Crown",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Crypt",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Crystal Ball",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Cultist",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Cursed Village",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Cutpurse",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Death Cart",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Defiled Shrine",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Delay",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Delve",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Demand",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Den of Sin",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Desert Guides",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Desperation",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Destrier",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Develop",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Devil's Workshop",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Diplomat",
+	"type": [
+      "Intrigue"
+	]
+  },
+  {
+	"name": "Dismantle",
+	"type": [
+      "Promo"
+	]
+  },
+  {
+	"name": "Displace",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Distant Lands",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Doctor",
+	"type": [
+      "Guilds"
+	]
+  },
+  {
+	"name": "Dominate",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Donate",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Druid",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Ducat",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Duchess",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Duke",
+	"type": [
+      "Intrigue"
+	]
+  },
+  {
+	"name": "Dungeon",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Duplicate",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Embargo",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Embassy",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Emissary",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Encampment/Plunder",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Enchantress",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Enclave",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Engineer",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Enhance",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Envoy",
+	"type": [
+      "Promo"
+	]
+  },
+  {
+	"name": "Exorcist",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Expand",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Expedition",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Experiment",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Exploration",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Explorer",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Fair",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Fairgrounds",
+	"type": [
+      "Cornucopia"
+	]
+  },
+  {
+	"name": "Faithful Hound",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Falconer",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Familiar",
+	"type": [
+      "Alchemy"
+	]
+  },
+  {
+	"name": "Family of Inventors",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Farmers' Market",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Farming Village",
+	"type": [
+      "Cornucopia"
+	]
+  },
+  {
+	"name": "Farmland",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Fellowship of Scribes",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Feodum",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Ferry",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Festival",
+	"type": [
+      "Base"
+	]
+  },
+  {
+	"name": "Fisherman",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Fishing Village",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Flag Bearer",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Fleet",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Fool",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Fool's Gold",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Forager",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Forest Dwellers",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Forge",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Fortress",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Forts",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Fortune Teller",
+	"type": [
+      "Cornucopia"
+	]
+  },
+  {
+	"name": "Forum",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Fountain",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Galleria",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Gamble",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Gang of Pickpockets",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Gardens",
+	"type": [
+      "Base"
+	]
+  },
+  {
+	"name": "Gatekeeper",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Gear",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Ghost Ship",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Ghost Town",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Giant",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Gladiator/Fortune",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Goatherd",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Golem",
+	"type": [
+      "Alchemy"
+	]
+  },
+  {
+	"name": "Goons",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Governor",
+	"type": [
+      "Promo"
+	]
+  },
+  {
+	"name": "Grand Market",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Graverobber",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Groom",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Groundskeeper",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Guard Dog",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Guardian",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Guide",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Guildhall",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Guildmaster",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Haggler",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Hamlet",
+	"type": [
+      "Cornucopia"
+	]
+  },
+  {
+	"name": "Harbinger",
+	"type": [
+      "Base"
+	]
+  },
+  {
+	"name": "Harem",
+	"type": [
+      "Intrigue"
+	]
+  },
+  {
+	"name": "Harvest",
+	"type": [
+      "Cornucopia"
+	]
+  },
+  {
+	"name": "Haunted Woods",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Haven",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Herald",
+	"type": [
+      "Guilds"
+	]
+  },
+  {
+	"name": "Herbalist",
+	"type": [
+      "Alchemy"
+	]
+  },
+  {
+	"name": "Hermit",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Hideout",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Highway",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Highwayman",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Hireling",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Hoard",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Horn of Plenty",
+	"type": [
+      "Cornucopia"
+	]
+  },
+  {
+	"name": "Horse Traders",
+	"type": [
+      "Cornucopia"
+	]
+  },
+  {
+	"name": "Hostelry",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Hunter",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Hunting Grounds",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Hunting Lodge",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Hunting Party",
+	"type": [
+      "Cornucopia"
+	]
+  },
+  {
+	"name": "Idol",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Ill-Gotten Gains",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Importer",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Improve",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Inheritance",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Inn",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Innkeeper",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Innovation",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Inventor",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Invest",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Investment",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Ironmonger",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Ironworks",
+	"type": [
+      "Intrigue"
+	]
+  },
+  {
+	"name": "Island",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Island Folk",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Jack of All Trades",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Jester",
+	"type": [
+      "Cornucopia"
+	]
+  },
+  {
+	"name": "Journeyman",
+	"type": [
+      "Guilds"
+	]
+  },
+  {
+	"name": "Junk Dealer",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Keep",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Kiln",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "King's Court",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Knights",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Laboratory",
+	"type": [
+      "Base"
+	]
+  },
+  {
+	"name": "Labyrinth",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Lackeys",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "League of Bankers",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "League of Shopkeepers",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Legionary",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Leprechaun",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Library",
+	"type": [
+      "Base"
+	]
+  },
+  {
+	"name": "Lighthouse",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Livery",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Loan",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Lookout",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Lost Arts",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Lost City",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Lurker",
+	"type": [
+      "Intrigue"
+	]
+  },
+  {
+	"name": "Magnate",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Magpie",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Mandarin",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Marauder",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "March",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Margrave",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Market",
+	"type": [
+      "Base"
+	]
+  },
+  {
+	"name": "Market Towns",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Market Square",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Marquis",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Masquerade",
+	"type": [
+      "Intrigue"
+	]
+  },
+  {
+	"name": "Mastermind",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Masterpiece",
+	"type": [
+      "Guilds"
+	]
+  },
+  {
+	"name": "Menagerie",
+	"type": [
+      "Cornucopia"
+	]
+  },
+  {
+	"name": "Merchant",
+	"type": [
+      "Base"
+	]
+  },
+  {
+	"name": "Merchant Camp",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Merchant Guild",
+	"type": [
+      "Guilds"
+	]
+  },
+  {
+	"name": "Merchant Ship",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Messenger",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Militia",
+	"type": [
+      "Base"
+	]
+  },
+  {
+	"name": "Mill",
+	"type": [
+      "Intrigue"
+	]
+  },
+  {
+	"name": "Mine",
+	"type": [
+      "Base"
+	]
+  },
+  {
+	"name": "Mining Village",
+	"type": [
+      "Intrigue"
+	]
+  },
+  {
+	"name": "Minion",
+	"type": [
+      "Intrigue"
+	]
+  },
+  {
+	"name": "Mint",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Miser",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Mission",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Moat",
+	"type": [
+      "Base"
+	]
+  },
+  {
+	"name": "Modify",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Monastery",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Moneylender",
+	"type": [
+      "Base"
+	]
+  },
+  {
+	"name": "Monkey",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Monument",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Mountain Folk",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Mountain Pass",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Mountain Village",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Mountebank",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Museum",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Mystic",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Native Village",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Navigator",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Necromancer",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Night Watchman",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Noble Brigand",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Nobles",
+	"type": [
+      "Intrigue"
+	]
+  },
+  {
+	"name": "Nomad Camp",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Nomads",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Oasis",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Obelisk",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Odysseys",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Old Witch",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Oracle",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Orchard",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Order of Astrologers",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Order of Masons",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Outpost",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Overlord",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Paddock",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Page",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Pageant",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Palace",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Pathfinding",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Patrician/Emporium",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Patrol",
+	"type": [
+      "Intrigue"
+	]
+  },
+  {
+	"name": "Patron",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Pawn",
+	"type": [
+      "Intrigue"
+	]
+  },
+  {
+	"name": "Peaceful Cult",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Pearl Diver",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Peasant",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Peddler",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Philosopher's Stone",
+	"type": [
+      "Alchemy"
+	]
+  },
+  {
+	"name": "Piazza",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Pilgrimage",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Pillage",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Pirate",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Pirate Ship",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Pixie",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Plan",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Plateau Shepherds",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Plaza",
+	"type": [
+      "Guilds"
+	]
+  },
+  {
+	"name": "Poacher",
+	"type": [
+      "Base"
+	]
+  },
+  {
+	"name": "Pooka",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Poor House",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Populate",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Port",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Possession",
+	"type": [
+      "Alchemy"
+	]
+  },
+  {
+	"name": "Priest",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Prince",
+	"type": [
+      "Promo"
+	]
+  },
+  {
+	"name": "Procession",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Pursue",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Quarry",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Quest",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Rabble",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Raid",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Raider",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Ranger",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Ratcatcher",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Rats",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Raze",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Reap",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Rebuild",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Recruiter",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Relic",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Remake",
+	"type": [
+      "Cornucopia"
+	]
+  },
+  {
+	"name": "Remodel",
+	"type": [
+      "Base"
+	]
+  },
+  {
+	"name": "Replace",
+	"type": [
+      "Intrigue"
+	]
+  },
+  {
+	"name": "Research",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Ride",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Ritual",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Road Network",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Rogue",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Royal Galley",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Royal Blacksmith",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Royal Carriage",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Royal Seal",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Sacred Grove",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Sacrifice",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Sage",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Sailor",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Salt the Earth",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Salvager",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Sanctuary",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Sauna/Avanto",
+	"type": [
+      "Promo"
+	]
+  },
+  {
+	"name": "Save",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Scavenger",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Scepter",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Scheme",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Scholar",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Scouting Party",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Scrap",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Scrying Pool",
+	"type": [
+      "Alchemy"
+	]
+  },
+  {
+	"name": "Sculptor",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Sea Chart",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Sea Hag",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Seaway",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Sea Witch",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Secret Cave",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Secret Passage",
+	"type": [
+      "Intrigue"
+	]
+  },
+  {
+	"name": "Seer",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Seize the Day",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Sentinel",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Sentry",
+	"type": [
+      "Base"
+	]
+  },
+  {
+	"name": "Settlers/Bustling Village",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Sewers",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Shanty Town",
+	"type": [
+      "Intrigue"
+	]
+  },
+  {
+	"name": "Sheepdog",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Shepherd",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Silk Merchant",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Silk Road",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Silos",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Sinister Plot",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Skirmisher",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Skulk",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Sleigh",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Smithy",
+	"type": [
+      "Base"
+	]
+  },
+  {
+	"name": "Smugglers",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Snowy Village",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Soothsayer",
+	"type": [
+      "Guilds"
+	]
+  },
+  {
+	"name": "Souk",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Specialist",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Spice Merchant",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Spices",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Squire",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Stables",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Stampede",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Star Chart",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Steward",
+	"type": [
+      "Intrigue"
+	]
+  },
+  {
+	"name": "Stockpile",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Stonemason",
+	"type": [
+      "Guilds"
+	]
+  },
+  {
+	"name": "Storeroom",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Storyteller",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Summon",
+	"type": [
+      "Promo"
+	]
+  },
+  {
+	"name": "Supplies",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Swamp Hag",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Swap",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Swashbuckler",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Swindler",
+	"type": [
+      "Intrigue"
+	]
+  },
+  {
+	"name": "Sycophant",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Tactician",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Talisman",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Tax",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Taxman",
+	"type": [
+      "Guilds"
+	]
+  },
+  {
+	"name": "Temple",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Throne Room",
+	"type": [
+      "Base"
+	]
+  },
+  {
+	"name": "Tiara",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Tide Pools",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Toil",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Tomb",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Tormentor",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Torturer",
+	"type": [
+      "Intrigue"
+	]
+  },
+  {
+	"name": "Tournament",
+	"type": [
+      "Cornucopia"
+	]
+  },
+  {
+	"name": "Tower",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Town",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Townsfolk",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Tracker",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Trade",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Trader",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Trade Route",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Trading Post",
+	"type": [
+      "Intrigue"
+	]
+  },
+  {
+	"name": "Tragic Hero",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Trail",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Training",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Transmogrify",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Transmute",
+	"type": [
+      "Alchemy"
+	]
+  },
+  {
+	"name": "Transport",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Trappers' Lodge",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Travelling Fair",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Treasure Map",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Treasurer",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Treasure Trove",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Treasury",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Triumph",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Triumphal Arch",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Tunnel",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Underling",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "University",
+	"type": [
+      "Alchemy"
+	]
+  },
+  {
+	"name": "Upgrade",
+	"type": [
+      "Intrigue"
+	]
+  },
+  {
+	"name": "Urchin",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Vagrant",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Vampire",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Vassal",
+	"type": [
+      "Base"
+	]
+  },
+  {
+	"name": "Vault",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Venture",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Villa",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Village",
+	"type": [
+      "Base"
+	]
+  },
+  {
+	"name": "Village Green",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Villain",
+	"type": [
+      "Renaissance"
+	]
+  },
+  {
+	"name": "Vineyard",
+	"type": [
+      "Alchemy"
+	]
+  },
+  {
+	"name": "Wall",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Walled Village",
+	"type": [
+      "Promo"
+	]
+  },
+  {
+	"name": "Wandering Minstrel",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "War Chest",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Warehouse",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Watchtower",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Wayfarer",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Way of the Butterfly",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Way of the Camel",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Way of the Chameleon",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Way of the Frog",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Way of the Goat",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Way of the Horse",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Way of the Mole",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Way of the Monkey",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Way of the Mouse",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Way of the Mule",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Way of the Otter",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Way of the Owl",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Way of the Ox",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Way of the Pig",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Way of the Rat",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Way of the Seal",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Way of the Sheep",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Way of the Squirrel",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Way of the Turtle",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Way of the Worm",
+	"type": [
+      "Menagerie"
+	]
+  },
+  {
+	"name": "Weaver",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Wedding",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Werewolf",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Wharf",
+	"type": [
+      "Seaside"
+	]
+  },
+  {
+	"name": "Wheelwright",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Wild Hunt",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Windfall",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Wine Merchant",
+	"type": [
+      "Adventures"
+	]
+  },
+  {
+	"name": "Wishing Well",
+	"type": [
+      "Intrigue"
+	]
+  },
+  {
+	"name": "Witch",
+	"type": [
+      "Base"
+	]
+  },
+  {
+	"name": "Witch's Hut",
+	"type": [
+      "Hinterlands"
+	]
+  },
+  {
+	"name": "Wizards",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Wolf Den",
+	"type": [
+      "Empires"
+	]
+  },
+  {
+	"name": "Woodworkers' Guild",
+	"type": [
+      "Allies"
+	]
+  },
+  {
+	"name": "Worker's Village",
+	"type": [
+      "Prosperity"
+	]
+  },
+  {
+	"name": "Workshop",
+	"type": [
+      "Base"
+	]
+  },
+  {
+	"name": "Young Witch",
+	"type": [
+      "Cornucopia"
+	]
+  },
+  {
+	"name": "Ruins",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Potion",
+	"type": [
+      "Alchemy"
+	]
+  },
+  {
+	"name": "Spoils",
+	"type": [
+      "Dark Ages"
+	]
+  },
+  {
+	"name": "Ghost",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Wish",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Imp",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Will-o'-Wisp",
+	"type": [
+      "Nocturne"
+	]
+  },
+  {
+	"name": "Horse",
+	"type": [
+      "Menagerie"
+	]
+  }
+]

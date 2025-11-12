@@ -15,7 +15,7 @@ func make_new_Buttons(names):
 			i.get_child(0).text = current_card[0]
 
 func _ready():
-	var arr = d.make_list(GlobalData.data_set)
+	var arr = d.read_json(GlobalData.data_set)
 	for i in range(5):
 		var button1 = Button.new()
 		button1.text = arr[i][1]
@@ -33,4 +33,4 @@ func _button_pressed(button):
 		$CenterContainer/Label.text = "Correct"
 	else: $CenterContainer/Label.text = "Sorry, incorrect. The correct answer was " + current_card[1]
 	await get_tree().create_timer(1).timeout
-	make_new_Buttons(d.make_list(GlobalData.data_set))
+	make_new_Buttons(d.read_json(GlobalData.data_set))
