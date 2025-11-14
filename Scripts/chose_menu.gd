@@ -5,7 +5,7 @@ func _ready() -> void:
 	$Button2.pressed.connect(self.button_pressed.bind("P"))
 	$Button3.pressed.connect(self.button_pressed.bind("M"))
 	
-func button_pressed(text: String):
+func button_pressed(text: String) -> void:
 	if text == "D": 
 		GlobalData.data_set = "res://Data/Dominion.json"
 		print("d")

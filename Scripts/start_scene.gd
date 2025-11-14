@@ -7,5 +7,5 @@ func _ready() -> void:
 	$Button.pressed.connect(self.on_click)
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 
-func on_click():
+func on_click() -> void:
 	get_tree().change_scene_to_file("res://Scenes/tutorial.tscn")

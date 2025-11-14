@@ -3,5830 +3,5830 @@
 	"name": "Bulbasaur",
 	"type": [
 	  "Grass",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Ivysaur",
 	"type": [
 	  "Grass",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Venusaur",
 	"type": [
 	  "Grass",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Charmander",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Charmeleon",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Charizard",
 	"type": [
 	  "Fire",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Squirtle",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Wartortle",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Blastoise",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Caterpie",
 	"type": [
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Metapod",
 	"type": [
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Butterfree",
 	"type": [
 	  "Bug",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Weedle",
 	"type": [
 	  "Bug",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Kakuna",
 	"type": [
 	  "Bug",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Beedrill",
 	"type": [
 	  "Bug",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Pidgey",
 	"type": [
 	  "Normal",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Pidgeotto",
 	"type": [
 	  "Normal",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Pidgeot",
 	"type": [
 	  "Normal",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Rattata",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Raticate",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Spearow",
 	"type": [
 	  "Normal",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Fearow",
 	"type": [
 	  "Normal",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Ekans",
 	"type": [
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Arbok",
 	"type": [
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Pikachu",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Raichu",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Sandshrew",
 	"type": [
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Sandslash",
 	"type": [
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Nidoran♀",
 	"type": [
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Nidorina",
 	"type": [
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Nidoqueen",
 	"type": [
 	  "Poison",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Nidoran♂",
 	"type": [
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Nidorino",
 	"type": [
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Nidoking",
 	"type": [
 	  "Poison",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Clefairy",
 	"type": [
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Clefable",
 	"type": [
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Vulpix",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Ninetales",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Jigglypuff",
 	"type": [
 	  "Normal",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Wigglytuff",
 	"type": [
 	  "Normal",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Zubat",
 	"type": [
 	  "Poison",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Golbat",
 	"type": [
 	  "Poison",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Oddish",
 	"type": [
 	  "Grass",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Gloom",
 	"type": [
 	  "Grass",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Vileplume",
 	"type": [
 	  "Grass",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Paras",
 	"type": [
 	  "Bug",
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Parasect",
 	"type": [
 	  "Bug",
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Venonat",
 	"type": [
 	  "Bug",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Venomoth",
 	"type": [
 	  "Bug",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Diglett",
 	"type": [
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Dugtrio",
 	"type": [
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Meowth",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Persian",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Psyduck",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Golduck",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Mankey",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Primeape",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Growlithe",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Arcanine",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Poliwag",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Poliwhirl",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Poliwrath",
 	"type": [
 	  "Water",
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Abra",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Kadabra",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Alakazam",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Machop",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Machoke",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Machamp",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Bellsprout",
 	"type": [
 	  "Grass",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Weepinbell",
 	"type": [
 	  "Grass",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Victreebel",
 	"type": [
 	  "Grass",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Tentacool",
 	"type": [
 	  "Water",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Tentacruel",
 	"type": [
 	  "Water",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Geodude",
 	"type": [
 	  "Rock",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Graveler",
 	"type": [
 	  "Rock",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Golem",
 	"type": [
 	  "Rock",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Ponyta",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Rapidash",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Slowpoke",
 	"type": [
 	  "Water",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Slowbro",
 	"type": [
 	  "Water",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Magnemite",
 	"type": [
 	  "Electric",
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Magneton",
 	"type": [
 	  "Electric",
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Farfetch'd",
 	"type": [
 	  "Normal",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Doduo",
 	"type": [
 	  "Normal",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Dodrio",
 	"type": [
 	  "Normal",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Seel",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Dewgong",
 	"type": [
 	  "Water",
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Grimer",
 	"type": [
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Muk",
 	"type": [
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Shellder",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Cloyster",
 	"type": [
 	  "Water",
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Gastly",
 	"type": [
 	  "Ghost",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Haunter",
 	"type": [
 	  "Ghost",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Gengar",
 	"type": [
 	  "Ghost",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Onix",
 	"type": [
 	  "Rock",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Drowzee",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Hypno",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Krabby",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Kingler",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Voltorb",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Electrode",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Exeggcute",
 	"type": [
 	  "Grass",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Exeggutor",
 	"type": [
 	  "Grass",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Cubone",
 	"type": [
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Marowak",
 	"type": [
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Hitmonlee",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Hitmonchan",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Lickitung",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Koffing",
 	"type": [
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Weezing",
 	"type": [
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Rhyhorn",
 	"type": [
 	  "Ground",
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Rhydon",
 	"type": [
 	  "Ground",
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Chansey",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Tangela",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Kangaskhan",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Horsea",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Seadra",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Goldeen",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Seaking",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Staryu",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Starmie",
 	"type": [
 	  "Water",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Mr. Mime",
 	"type": [
 	  "Psychic",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Scyther",
 	"type": [
 	  "Bug",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Jynx",
 	"type": [
 	  "Ice",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Electabuzz",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Magmar",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Pinsir",
 	"type": [
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Tauros",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Magikarp",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Gyarados",
 	"type": [
 	  "Water",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Lapras",
 	"type": [
 	  "Water",
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Ditto",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Eevee",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Vaporeon",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Jolteon",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Flareon",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Porygon",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Omanyte",
 	"type": [
 	  "Rock",
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Omastar",
 	"type": [
 	  "Rock",
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Kabuto",
 	"type": [
 	  "Rock",
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Kabutops",
 	"type": [
 	  "Rock",
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Aerodactyl",
 	"type": [
 	  "Rock",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Snorlax",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Articuno",
 	"type": [
 	  "Ice",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Zapdos",
 	"type": [
 	  "Electric",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Moltres",
 	"type": [
 	  "Fire",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Dratini",
 	"type": [
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Dragonair",
 	"type": [
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Dragonite",
 	"type": [
 	  "Dragon",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Mewtwo",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Mew",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Chikorita",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Bayleef",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Meganium",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Cyndaquil",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Quilava",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Typhlosion",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Totodile",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Croconaw",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Feraligatr",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Sentret",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Furret",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Hoothoot",
 	"type": [
 	  "Normal",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Noctowl",
 	"type": [
 	  "Normal",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Ledyba",
 	"type": [
 	  "Bug",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Ledian",
 	"type": [
 	  "Bug",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Spinarak",
 	"type": [
 	  "Bug",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Ariados",
 	"type": [
 	  "Bug",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Crobat",
 	"type": [
 	  "Poison",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Chinchou",
 	"type": [
 	  "Water",
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Lanturn",
 	"type": [
 	  "Water",
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Pichu",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Cleffa",
 	"type": [
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Igglybuff",
 	"type": [
 	  "Normal",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Togepi",
 	"type": [
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Togetic",
 	"type": [
 	  "Fairy",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Natu",
 	"type": [
 	  "Psychic",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Xatu",
 	"type": [
 	  "Psychic",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Mareep",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Flaaffy",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Ampharos",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Bellossom",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Marill",
 	"type": [
 	  "Water",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Azumarill",
 	"type": [
 	  "Water",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Sudowoodo",
 	"type": [
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Politoed",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Hoppip",
 	"type": [
 	  "Grass",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Skiploom",
 	"type": [
 	  "Grass",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Jumpluff",
 	"type": [
 	  "Grass",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Aipom",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Sunkern",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Sunflora",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Yanma",
 	"type": [
 	  "Bug",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Wooper",
 	"type": [
 	  "Water",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Quagsire",
 	"type": [
 	  "Water",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Espeon",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Umbreon",
 	"type": [
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Murkrow",
 	"type": [
 	  "Dark",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Slowking",
 	"type": [
 	  "Water",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Misdreavus",
 	"type": [
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Unown",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Wobbuffet",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Girafarig",
 	"type": [
 	  "Normal",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Pineco",
 	"type": [
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Forretress",
 	"type": [
 	  "Bug",
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Dunsparce",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Gligar",
 	"type": [
 	  "Ground",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Steelix",
 	"type": [
 	  "Steel",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Snubbull",
 	"type": [
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Granbull",
 	"type": [
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Qwilfish",
 	"type": [
 	  "Water",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Scizor",
 	"type": [
 	  "Bug",
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Shuckle",
 	"type": [
 	  "Bug",
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Heracross",
 	"type": [
 	  "Bug",
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Sneasel",
 	"type": [
 	  "Dark",
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Teddiursa",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Ursaring",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Slugma",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Magcargo",
 	"type": [
 	  "Fire",
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Swinub",
 	"type": [
 	  "Ice",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Piloswine",
 	"type": [
 	  "Ice",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Corsola",
 	"type": [
 	  "Water",
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Remoraid",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Octillery",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Delibird",
 	"type": [
 	  "Ice",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Mantine",
 	"type": [
 	  "Water",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Skarmory",
 	"type": [
 	  "Steel",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Houndour",
 	"type": [
 	  "Dark",
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Houndoom",
 	"type": [
 	  "Dark",
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Kingdra",
 	"type": [
 	  "Water",
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Phanpy",
 	"type": [
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Donphan",
 	"type": [
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Porygon2",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Stantler",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Smeargle",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Tyrogue",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Hitmontop",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Smoochum",
 	"type": [
 	  "Ice",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Elekid",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Magby",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Miltank",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Blissey",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Raikou",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Entei",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Suicune",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Larvitar",
 	"type": [
 	  "Rock",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Pupitar",
 	"type": [
 	  "Rock",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Tyranitar",
 	"type": [
 	  "Rock",
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Lugia",
 	"type": [
 	  "Psychic",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Ho-Oh",
 	"type": [
 	  "Fire",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Celebi",
 	"type": [
 	  "Psychic",
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Treecko",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Grovyle",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Sceptile",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Torchic",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Combusken",
 	"type": [
 	  "Fire",
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Blaziken",
 	"type": [
 	  "Fire",
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Mudkip",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Marshtomp",
 	"type": [
 	  "Water",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Swampert",
 	"type": [
 	  "Water",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Poochyena",
 	"type": [
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Mightyena",
 	"type": [
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Zigzagoon",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Linoone",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Wurmple",
 	"type": [
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Silcoon",
 	"type": [
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Beautifly",
 	"type": [
 	  "Bug",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Cascoon",
 	"type": [
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Dustox",
 	"type": [
 	  "Bug",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Lotad",
 	"type": [
 	  "Water",
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Lombre",
 	"type": [
 	  "Water",
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Ludicolo",
 	"type": [
 	  "Water",
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Seedot",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Nuzleaf",
 	"type": [
 	  "Grass",
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Shiftry",
 	"type": [
 	  "Grass",
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Taillow",
 	"type": [
 	  "Normal",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Swellow",
 	"type": [
 	  "Normal",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Wingull",
 	"type": [
 	  "Water",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Pelipper",
 	"type": [
 	  "Water",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Ralts",
 	"type": [
 	  "Psychic",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Kirlia",
 	"type": [
 	  "Psychic",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Gardevoir",
 	"type": [
 	  "Psychic",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Surskit",
 	"type": [
 	  "Bug",
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Masquerain",
 	"type": [
 	  "Bug",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Shroomish",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Breloom",
 	"type": [
 	  "Grass",
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Slakoth",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Vigoroth",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Slaking",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Nincada",
 	"type": [
 	  "Bug",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Ninjask",
 	"type": [
 	  "Bug",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Shedinja",
 	"type": [
 	  "Bug",
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Whismur",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Loudred",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Exploud",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Makuhita",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Hariyama",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Azurill",
 	"type": [
 	  "Normal",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Nosepass",
 	"type": [
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Skitty",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Delcatty",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Sableye",
 	"type": [
 	  "Dark",
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Mawile",
 	"type": [
 	  "Steel",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Aron",
 	"type": [
 	  "Steel",
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Lairon",
 	"type": [
 	  "Steel",
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Aggron",
 	"type": [
 	  "Steel",
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Meditite",
 	"type": [
 	  "Fighting",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Medicham",
 	"type": [
 	  "Fighting",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Electrike",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Manectric",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Plusle",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Minun",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Volbeat",
 	"type": [
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Illumise",
 	"type": [
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Roselia",
 	"type": [
 	  "Grass",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Gulpin",
 	"type": [
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Swalot",
 	"type": [
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Carvanha",
 	"type": [
 	  "Water",
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Sharpedo",
 	"type": [
 	  "Water",
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Wailmer",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Wailord",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Numel",
 	"type": [
 	  "Fire",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Camerupt",
 	"type": [
 	  "Fire",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Torkoal",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Spoink",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Grumpig",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Spinda",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Trapinch",
 	"type": [
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Vibrava",
 	"type": [
 	  "Ground",
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Flygon",
 	"type": [
 	  "Ground",
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Cacnea",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Cacturne",
 	"type": [
 	  "Grass",
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Swablu",
 	"type": [
 	  "Normal",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Altaria",
 	"type": [
 	  "Dragon",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Zangoose",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Seviper",
 	"type": [
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Lunatone",
 	"type": [
 	  "Rock",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Solrock",
 	"type": [
 	  "Rock",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Barboach",
 	"type": [
 	  "Water",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Whiscash",
 	"type": [
 	  "Water",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Corphish",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Crawdaunt",
 	"type": [
 	  "Water",
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Baltoy",
 	"type": [
 	  "Ground",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Claydol",
 	"type": [
 	  "Ground",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Lileep",
 	"type": [
 	  "Rock",
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Cradily",
 	"type": [
 	  "Rock",
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Anorith",
 	"type": [
 	  "Rock",
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Armaldo",
 	"type": [
 	  "Rock",
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Feebas",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Milotic",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Castform",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Kecleon",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Shuppet",
 	"type": [
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Banette",
 	"type": [
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Duskull",
 	"type": [
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Dusclops",
 	"type": [
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Tropius",
 	"type": [
 	  "Grass",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Chimecho",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Absol",
 	"type": [
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Wynaut",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Snorunt",
 	"type": [
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Glalie",
 	"type": [
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Spheal",
 	"type": [
 	  "Ice",
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Sealeo",
 	"type": [
 	  "Ice",
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Walrein",
 	"type": [
 	  "Ice",
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Clamperl",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Huntail",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Gorebyss",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Relicanth",
 	"type": [
 	  "Water",
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Luvdisc",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Bagon",
 	"type": [
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Shelgon",
 	"type": [
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Salamence",
 	"type": [
 	  "Dragon",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Beldum",
 	"type": [
 	  "Steel",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Metang",
 	"type": [
 	  "Steel",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Metagross",
 	"type": [
 	  "Steel",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Regirock",
 	"type": [
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Regice",
 	"type": [
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Registeel",
 	"type": [
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Latias",
 	"type": [
 	  "Dragon",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Latios",
 	"type": [
 	  "Dragon",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Kyogre",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Groudon",
 	"type": [
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Rayquaza",
 	"type": [
 	  "Dragon",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Jirachi",
 	"type": [
 	  "Steel",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Deoxys",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Turtwig",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Grotle",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Torterra",
 	"type": [
 	  "Grass",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Chimchar",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Monferno",
 	"type": [
 	  "Fire",
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Infernape",
 	"type": [
 	  "Fire",
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Piplup",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Prinplup",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Empoleon",
 	"type": [
 	  "Water",
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Starly",
 	"type": [
 	  "Normal",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Staravia",
 	"type": [
 	  "Normal",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Staraptor",
 	"type": [
 	  "Normal",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Bidoof",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Bibarel",
 	"type": [
 	  "Normal",
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Kricketot",
 	"type": [
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Kricketune",
 	"type": [
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Shinx",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Luxio",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Luxray",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Budew",
 	"type": [
 	  "Grass",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Roserade",
 	"type": [
 	  "Grass",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Cranidos",
 	"type": [
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Rampardos",
 	"type": [
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Shieldon",
 	"type": [
 	  "Rock",
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Bastiodon",
 	"type": [
 	  "Rock",
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Burmy",
 	"type": [
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Wormadam",
 	"type": [
 	  "Bug",
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Mothim",
 	"type": [
 	  "Bug",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Combee",
 	"type": [
 	  "Bug",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Vespiquen",
 	"type": [
 	  "Bug",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Pachirisu",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Buizel",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Floatzel",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Cherubi",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Cherrim",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Shellos",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Gastrodon",
 	"type": [
 	  "Water",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Ambipom",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Drifloon",
 	"type": [
 	  "Ghost",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Drifblim",
 	"type": [
 	  "Ghost",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Buneary",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Lopunny",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Mismagius",
 	"type": [
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Honchkrow",
 	"type": [
 	  "Dark",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Glameow",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Purugly",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Chingling",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Stunky",
 	"type": [
 	  "Poison",
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Skuntank",
 	"type": [
 	  "Poison",
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Bronzor",
 	"type": [
 	  "Steel",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Bronzong",
 	"type": [
 	  "Steel",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Bonsly",
 	"type": [
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Mime Jr.",
 	"type": [
 	  "Psychic",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Happiny",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Chatot",
 	"type": [
 	  "Normal",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Spiritomb",
 	"type": [
 	  "Ghost",
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Gible",
 	"type": [
 	  "Dragon",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Gabite",
 	"type": [
 	  "Dragon",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Garchomp",
 	"type": [
 	  "Dragon",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Munchlax",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Riolu",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Lucario",
 	"type": [
 	  "Fighting",
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Hippopotas",
 	"type": [
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Hippowdon",
 	"type": [
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Skorupi",
 	"type": [
 	  "Poison",
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Drapion",
 	"type": [
 	  "Poison",
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Croagunk",
 	"type": [
 	  "Poison",
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Toxicroak",
 	"type": [
 	  "Poison",
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Carnivine",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Finneon",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Lumineon",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Mantyke",
 	"type": [
 	  "Water",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Snover",
 	"type": [
 	  "Grass",
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Abomasnow",
 	"type": [
 	  "Grass",
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Weavile",
 	"type": [
 	  "Dark",
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Magnezone",
 	"type": [
 	  "Electric",
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Lickilicky",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Rhyperior",
 	"type": [
 	  "Ground",
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Tangrowth",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Electivire",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Magmortar",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Togekiss",
 	"type": [
 	  "Fairy",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Yanmega",
 	"type": [
 	  "Bug",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Leafeon",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Glaceon",
 	"type": [
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Gliscor",
 	"type": [
 	  "Ground",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Mamoswine",
 	"type": [
 	  "Ice",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Porygon-Z",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Gallade",
 	"type": [
 	  "Psychic",
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Probopass",
 	"type": [
 	  "Rock",
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Dusknoir",
 	"type": [
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Froslass",
 	"type": [
 	  "Ice",
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Rotom",
 	"type": [
 	  "Electric",
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Uxie",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Mesprit",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Azelf",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Dialga",
 	"type": [
 	  "Steel",
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Palkia",
 	"type": [
 	  "Water",
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Heatran",
 	"type": [
 	  "Fire",
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Regigigas",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Giratina",
 	"type": [
 	  "Ghost",
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Cresselia",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Phione",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Manaphy",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Darkrai",
 	"type": [
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Shaymin",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Arceus",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Victini",
 	"type": [
 	  "Psychic",
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Snivy",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Servine",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Serperior",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Tepig",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Pignite",
 	"type": [
 	  "Fire",
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Emboar",
 	"type": [
 	  "Fire",
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Oshawott",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Dewott",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Samurott",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Patrat",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Watchog",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Lillipup",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Herdier",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Stoutland",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Purrloin",
 	"type": [
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Liepard",
 	"type": [
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Pansage",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Simisage",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Pansear",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Simisear",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Panpour",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Simipour",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Munna",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Musharna",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Pidove",
 	"type": [
 	  "Normal",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Tranquill",
 	"type": [
 	  "Normal",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Unfezant",
 	"type": [
 	  "Normal",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Blitzle",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Zebstrika",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Roggenrola",
 	"type": [
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Boldore",
 	"type": [
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Gigalith",
 	"type": [
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Woobat",
 	"type": [
 	  "Psychic",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Swoobat",
 	"type": [
 	  "Psychic",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Drilbur",
 	"type": [
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Excadrill",
 	"type": [
 	  "Ground",
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Audino",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Timburr",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Gurdurr",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Conkeldurr",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Tympole",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Palpitoad",
 	"type": [
 	  "Water",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Seismitoad",
 	"type": [
 	  "Water",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Throh",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Sawk",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Sewaddle",
 	"type": [
 	  "Bug",
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Swadloon",
 	"type": [
 	  "Bug",
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Leavanny",
 	"type": [
 	  "Bug",
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Venipede",
 	"type": [
 	  "Bug",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Whirlipede",
 	"type": [
 	  "Bug",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Scolipede",
 	"type": [
 	  "Bug",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Cottonee",
 	"type": [
 	  "Grass",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Whimsicott",
 	"type": [
 	  "Grass",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Petilil",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Lilligant",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Basculin",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Sandile",
 	"type": [
 	  "Ground",
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Krokorok",
 	"type": [
 	  "Ground",
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Krookodile",
 	"type": [
 	  "Ground",
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Darumaka",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Darmanitan",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Maractus",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Dwebble",
 	"type": [
 	  "Bug",
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Crustle",
 	"type": [
 	  "Bug",
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Scraggy",
 	"type": [
 	  "Dark",
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Scrafty",
 	"type": [
 	  "Dark",
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Sigilyph",
 	"type": [
 	  "Psychic",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Yamask",
 	"type": [
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Cofagrigus",
 	"type": [
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Tirtouga",
 	"type": [
 	  "Water",
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Carracosta",
 	"type": [
 	  "Water",
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Archen",
 	"type": [
 	  "Rock",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Archeops",
 	"type": [
 	  "Rock",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Trubbish",
 	"type": [
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Garbodor",
 	"type": [
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Zorua",
 	"type": [
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Zoroark",
 	"type": [
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Minccino",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Cinccino",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Gothita",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Gothorita",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Gothitelle",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Solosis",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Duosion",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Reuniclus",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Ducklett",
 	"type": [
 	  "Water",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Swanna",
 	"type": [
 	  "Water",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Vanillite",
 	"type": [
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Vanillish",
 	"type": [
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Vanilluxe",
 	"type": [
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Deerling",
 	"type": [
 	  "Normal",
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Sawsbuck",
 	"type": [
 	  "Normal",
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Emolga",
 	"type": [
 	  "Electric",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Karrablast",
 	"type": [
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Escavalier",
 	"type": [
 	  "Bug",
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Foongus",
 	"type": [
 	  "Grass",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Amoonguss",
 	"type": [
 	  "Grass",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Frillish",
 	"type": [
 	  "Water",
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Jellicent",
 	"type": [
 	  "Water",
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Alomomola",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Joltik",
 	"type": [
 	  "Bug",
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Galvantula",
 	"type": [
 	  "Bug",
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Ferroseed",
 	"type": [
 	  "Grass",
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Ferrothorn",
 	"type": [
 	  "Grass",
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Klink",
 	"type": [
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Klang",
 	"type": [
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Klinklang",
 	"type": [
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Tynamo",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Eelektrik",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Eelektross",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Elgyem",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Beheeyem",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Litwick",
 	"type": [
 	  "Ghost",
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Lampent",
 	"type": [
 	  "Ghost",
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Chandelure",
 	"type": [
 	  "Ghost",
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Axew",
 	"type": [
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Fraxure",
 	"type": [
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Haxorus",
 	"type": [
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Cubchoo",
 	"type": [
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Beartic",
 	"type": [
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Cryogonal",
 	"type": [
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Shelmet",
 	"type": [
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Accelgor",
 	"type": [
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Stunfisk",
 	"type": [
 	  "Ground",
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Mienfoo",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Mienshao",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Druddigon",
 	"type": [
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Golett",
 	"type": [
 	  "Ground",
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Golurk",
 	"type": [
 	  "Ground",
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Pawniard",
 	"type": [
 	  "Dark",
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Bisharp",
 	"type": [
 	  "Dark",
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Bouffalant",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Rufflet",
 	"type": [
 	  "Normal",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Braviary",
 	"type": [
 	  "Normal",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Vullaby",
 	"type": [
 	  "Dark",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Mandibuzz",
 	"type": [
 	  "Dark",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Heatmor",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Durant",
 	"type": [
 	  "Bug",
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Deino",
 	"type": [
 	  "Dark",
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Zweilous",
 	"type": [
 	  "Dark",
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Hydreigon",
 	"type": [
 	  "Dark",
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Larvesta",
 	"type": [
 	  "Bug",
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Volcarona",
 	"type": [
 	  "Bug",
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Cobalion",
 	"type": [
 	  "Steel",
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Terrakion",
 	"type": [
 	  "Rock",
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Virizion",
 	"type": [
 	  "Grass",
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Tornadus",
 	"type": [
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Thundurus",
 	"type": [
 	  "Electric",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Reshiram",
 	"type": [
 	  "Dragon",
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Zekrom",
 	"type": [
 	  "Dragon",
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Landorus",
 	"type": [
 	  "Ground",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Kyurem",
 	"type": [
 	  "Dragon",
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Keldeo",
 	"type": [
 	  "Water",
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Meloetta",
 	"type": [
 	  "Normal",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Genesect",
 	"type": [
 	  "Bug",
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Chespin",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Quilladin",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Chesnaught",
 	"type": [
 	  "Grass",
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Fennekin",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Braixen",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Delphox",
 	"type": [
 	  "Fire",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Froakie",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Frogadier",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Greninja",
 	"type": [
 	  "Water",
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Bunnelby",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Diggersby",
 	"type": [
 	  "Normal",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Fletchling",
 	"type": [
 	  "Normal",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Fletchinder",
 	"type": [
 	  "Fire",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Talonflame",
 	"type": [
 	  "Fire",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Scatterbug",
 	"type": [
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Spewpa",
 	"type": [
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Vivillon",
 	"type": [
 	  "Bug",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Litleo",
 	"type": [
 	  "Fire",
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Pyroar",
 	"type": [
 	  "Fire",
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Flabébé",
 	"type": [
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Floette",
 	"type": [
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Florges",
 	"type": [
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Skiddo",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Gogoat",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Pancham",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Pangoro",
 	"type": [
 	  "Fighting",
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Furfrou",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Espurr",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Meowstic",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Honedge",
 	"type": [
 	  "Steel",
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Doublade",
 	"type": [
 	  "Steel",
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Aegislash",
 	"type": [
 	  "Steel",
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Spritzee",
 	"type": [
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Aromatisse",
 	"type": [
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Swirlix",
 	"type": [
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Slurpuff",
 	"type": [
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Inkay",
 	"type": [
 	  "Dark",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Malamar",
 	"type": [
 	  "Dark",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Binacle",
 	"type": [
 	  "Rock",
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Barbaracle",
 	"type": [
 	  "Rock",
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Skrelp",
 	"type": [
 	  "Poison",
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Dragalge",
 	"type": [
 	  "Poison",
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Clauncher",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Clawitzer",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Helioptile",
 	"type": [
 	  "Electric",
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Heliolisk",
 	"type": [
 	  "Electric",
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Tyrunt",
 	"type": [
 	  "Rock",
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Tyrantrum",
 	"type": [
 	  "Rock",
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Amaura",
 	"type": [
 	  "Rock",
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Aurorus",
 	"type": [
 	  "Rock",
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Sylveon",
 	"type": [
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Hawlucha",
 	"type": [
 	  "Fighting",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Dedenne",
 	"type": [
 	  "Electric",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Carbink",
 	"type": [
 	  "Rock",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Goomy",
 	"type": [
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Sliggoo",
 	"type": [
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Goodra",
 	"type": [
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Klefki",
 	"type": [
 	  "Steel",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Phantump",
 	"type": [
 	  "Ghost",
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Trevenant",
 	"type": [
 	  "Ghost",
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Pumpkaboo",
 	"type": [
 	  "Ghost",
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Gourgeist",
 	"type": [
 	  "Ghost",
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Bergmite",
 	"type": [
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Avalugg",
 	"type": [
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Noibat",
 	"type": [
 	  "Flying",
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Noivern",
 	"type": [
 	  "Flying",
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Xerneas",
 	"type": [
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Yveltal",
 	"type": [
 	  "Dark",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Zygarde",
 	"type": [
 	  "Dragon",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Diancie",
 	"type": [
 	  "Rock",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Hoopa",
 	"type": [
 	  "Psychic",
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Volcanion",
 	"type": [
 	  "Fire",
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Rowlet",
 	"type": [
 	  "Grass",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Dartrix",
 	"type": [
 	  "Grass",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Decidueye",
 	"type": [
 	  "Grass",
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Litten",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Torracat",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Incineroar",
 	"type": [
 	  "Fire",
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Popplio",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Brionne",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Primarina",
 	"type": [
 	  "Water",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Pikipek",
 	"type": [
 	  "Normal",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Trumbeak",
 	"type": [
 	  "Normal",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Toucannon",
 	"type": [
 	  "Normal",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Yungoos",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Gumshoos",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Grubbin",
 	"type": [
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Charjabug",
 	"type": [
 	  "Bug",
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Vikavolt",
 	"type": [
 	  "Bug",
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Crabrawler",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Crabominable",
 	"type": [
 	  "Fighting",
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Oricorio",
 	"type": [
 	  "Fire",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Cutiefly",
 	"type": [
 	  "Bug",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Ribombee",
 	"type": [
 	  "Bug",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Rockruff",
 	"type": [
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Lycanroc",
 	"type": [
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Wishiwashi",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Mareanie",
 	"type": [
 	  "Poison",
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Toxapex",
 	"type": [
 	  "Poison",
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Mudbray",
 	"type": [
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Mudsdale",
 	"type": [
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Dewpider",
 	"type": [
 	  "Water",
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Araquanid",
 	"type": [
 	  "Water",
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Fomantis",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Lurantis",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Morelull",
 	"type": [
 	  "Grass",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Shiinotic",
 	"type": [
 	  "Grass",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Salandit",
 	"type": [
 	  "Poison",
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Salazzle",
 	"type": [
 	  "Poison",
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Stufful",
 	"type": [
 	  "Normal",
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Bewear",
 	"type": [
 	  "Normal",
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Bounsweet",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Steenee",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Tsareena",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Comfey",
 	"type": [
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Oranguru",
 	"type": [
 	  "Normal",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Passimian",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Wimpod",
 	"type": [
 	  "Bug",
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Golisopod",
 	"type": [
 	  "Bug",
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Sandygast",
 	"type": [
 	  "Ghost",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Palossand",
 	"type": [
 	  "Ghost",
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Pyukumuku",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Type: Null",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Silvally",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Minior",
 	"type": [
 	  "Rock",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Komala",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Turtonator",
 	"type": [
 	  "Fire",
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Togedemaru",
 	"type": [
 	  "Electric",
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Mimikyu",
 	"type": [
 	  "Ghost",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Bruxish",
 	"type": [
 	  "Water",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Drampa",
 	"type": [
 	  "Normal",
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Dhelmise",
 	"type": [
 	  "Ghost",
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Jangmo-o",
 	"type": [
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Hakamo-o",
 	"type": [
 	  "Dragon",
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Kommo-o",
 	"type": [
 	  "Dragon",
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Tapu Koko",
 	"type": [
 	  "Electric",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Tapu Lele",
 	"type": [
 	  "Psychic",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Tapu Bulu",
 	"type": [
 	  "Grass",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Tapu Fini",
 	"type": [
 	  "Water",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Cosmog",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Cosmoem",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Solgaleo",
 	"type": [
 	  "Psychic",
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Lunala",
 	"type": [
 	  "Psychic",
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Nihilego",
 	"type": [
 	  "Rock",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Buzzwole",
 	"type": [
 	  "Bug",
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Pheromosa",
 	"type": [
 	  "Bug",
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Xurkitree",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Celesteela",
 	"type": [
 	  "Steel",
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Kartana",
 	"type": [
 	  "Grass",
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Guzzlord",
 	"type": [
 	  "Dark",
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Necrozma",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Magearna",
 	"type": [
 	  "Steel",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Marshadow",
 	"type": [
 	  "Fighting",
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Poipole",
 	"type": [
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Naganadel",
 	"type": [
 	  "Poison",
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Stakataka",
 	"type": [
 	  "Rock",
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Blacephalon",
 	"type": [
 	  "Fire",
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Zeraora",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Meltan",
 	"type": [
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Melmetal",
 	"type": [
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Grookey",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Thwackey",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Rillaboom",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Scorbunny",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Raboot",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Cinderace",
 	"type": [
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Sobble",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Drizzile",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Inteleon",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Skwovet",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Greedent",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Rookidee",
 	"type": [
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Corvisquire",
 	"type": [
-      "Flying"
+	  "Flying"
 	]
   },
   {
 	"name": "Corviknight",
 	"type": [
 	  "Flying",
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Blipbug",
 	"type": [
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Dottler",
 	"type": [
 	  "Bug",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Orbeetle",
 	"type": [
 	  "Bug",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Nickit",
 	"type": [
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Thievul",
 	"type": [
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Gossifleur",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Eldegoss",
 	"type": [
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Wooloo",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Dubwool",
 	"type": [
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Chewtle",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Drednaw",
 	"type": [
 	  "Water",
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Yamper",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Boltund",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Rolycoly",
 	"type": [
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Carkol",
 	"type": [
 	  "Rock",
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Coalossal",
 	"type": [
 	  "Rock",
-      "Fire"
+	  "Fire"
 	]
   },
   {
 	"name": "Applin",
 	"type": [
 	  "Grass",
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Flapple",
 	"type": [
 	  "Grass",
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Appletun",
 	"type": [
 	  "Grass",
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Silicobra",
 	"type": [
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Sandaconda",
 	"type": [
-      "Ground"
+	  "Ground"
 	]
   },
   {
 	"name": "Cramorant",
 	"type": [
 	  "Flying",
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Arrokuda",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Barraskewda",
 	"type": [
-      "Water"
+	  "Water"
 	]
   },
   {
 	"name": "Toxel",
 	"type": [
 	  "Electric",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Toxtricity",
 	"type": [
 	  "Electric",
-      "Poison"
+	  "Poison"
 	]
   },
   {
 	"name": "Sizzlipede",
 	"type": [
 	  "Fire",
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Centiskorch",
 	"type": [
 	  "Fire",
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Clobbopus",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Grapploct",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Sinistea",
 	"type": [
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Polteageist",
 	"type": [
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Hatenna",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Hattrem",
 	"type": [
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Hatterene",
 	"type": [
 	  "Psychic",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Impidimp",
 	"type": [
 	  "Dark",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Morgrem",
 	"type": [
 	  "Dark",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Grimmsnarl",
 	"type": [
 	  "Dark",
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Obstagoon",
 	"type": [
 	  "Dark",
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Perrserker",
 	"type": [
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Cursola",
 	"type": [
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Sirfetch'd",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Mr. Rime",
 	"type": [
 	  "Ice",
-      "Psychic"
+	  "Psychic"
 	]
   },
   {
 	"name": "Runerigus",
 	"type": [
 	  "Ground",
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Milcery",
 	"type": [
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Alcremie",
 	"type": [
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Falinks",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Pincurchin",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Snom",
 	"type": [
 	  "Ice",
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Frosmoth",
 	"type": [
 	  "Ice",
-      "Bug"
+	  "Bug"
 	]
   },
   {
 	"name": "Stonjourner",
 	"type": [
-      "Rock"
+	  "Rock"
 	]
   },
   {
 	"name": "Eiscue",
 	"type": [
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Indeedee",
 	"type": [
 	  "Psychic",
-      "Normal"
+	  "Normal"
 	]
   },
   {
 	"name": "Morpeko",
 	"type": [
 	  "Electric",
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Cufant",
 	"type": [
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Copperajah",
 	"type": [
-      "Steel"
+	  "Steel"
 	]
   },
   {
 	"name": "Dracozolt",
 	"type": [
 	  "Electric",
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Arctozolt",
 	"type": [
 	  "Electric",
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Dracovish",
 	"type": [
 	  "Water",
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Arctovish",
 	"type": [
 	  "Water",
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Duraludon",
 	"type": [
 	  "Steel",
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Dreepy",
 	"type": [
 	  "Dragon",
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Drakloak",
 	"type": [
 	  "Dragon",
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Dragapult",
 	"type": [
 	  "Dragon",
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Zacian",
 	"type": [
-      "Fairy"
+	  "Fairy"
 	]
   },
   {
 	"name": "Zamazenta",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Eternatus",
 	"type": [
 	  "Poison",
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Kubfu",
 	"type": [
-      "Fighting"
+	  "Fighting"
 	]
   },
   {
 	"name": "Urshifu",
 	"type": [
 	  "Fighting",
-      "Dark"
+	  "Dark"
 	]
   },
   {
 	"name": "Zarude",
 	"type": [
 	  "Dark",
-      "Grass"
+	  "Grass"
 	]
   },
   {
 	"name": "Regieleki",
 	"type": [
-      "Electric"
+	  "Electric"
 	]
   },
   {
 	"name": "Regidrago",
 	"type": [
-      "Dragon"
+	  "Dragon"
 	]
   },
   {
 	"name": "Glastrier",
 	"type": [
-      "Ice"
+	  "Ice"
 	]
   },
   {
 	"name": "Spectrier",
 	"type": [
-      "Ghost"
+	  "Ghost"
 	]
   },
   {
 	"name": "Calyrex",
 	"type": [
 	  "Psychic",
-      "Grass"
+	  "Grass"
 	]
   }
 ]

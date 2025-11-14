@@ -1,9 +1,9 @@
 extends Node2D
 
-@onready var d = DataInterprtur.new()
+var d = DataInterprtur.new()
 var current_card: Array
 
-func make_new_Buttons(names):
+func make_new_Buttons(names) -> void:
 	var index = 0
 	for i in get_children():
 		if i is Button:
@@ -14,8 +14,9 @@ func make_new_Buttons(names):
 			current_card = names[randi_range(0,4)]
 			i.get_child(0).text = current_card[0]
 
-func _ready():
-	var arr = d.read_json(GlobalData.data_set)
+func _ready() -> void:
+	d.read_json(GlobalData.data_set)
+	var arr = d.make_lst()
 	for i in range(5):
 		var button1 = Button.new()
 		button1.text = arr[i][1]
@@ -28,9 +29,9 @@ func _ready():
 	$CenterContainer/Label.text = current_card[0]
 	$CenterContainer/Label.set("theme_override_font_sizes/font_size",48)
 
-func _button_pressed(button):
+func _button_pressed(button) -> void:
 	if (button.get_meta("Correct") == $CenterContainer/Label.text):
 		$CenterContainer/Label.text = "Correct"
 	else: $CenterContainer/Label.text = "Sorry, incorrect. The correct answer was " + current_card[1]
 	await get_tree().create_timer(1).timeout
-	make_new_Buttons(d.read_json(GlobalData.data_set))
+	make_new_Buttons(d.make_lst())
